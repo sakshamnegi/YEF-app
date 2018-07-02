@@ -1,0 +1,667 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfc8a7c1c48e0de0162b44bccd439aa2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.firebaseui:firebase-ui:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-0.6.0.aar/88ca30e1455a42c6d30468f4f9cb451f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:2:1-19:12
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:2:1-85:12
+MERGED from [com.firebaseui:firebase-ui-storage:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-storage-0.6.0.aar/caa457623391ddff13c0f52352663a42/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/design-27.1.1.aar/60b3ef5d13c1cd2ec11c517be592ff8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c68c818890fde92c789112ed3369bd63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01961d507e5d01578e28be54f698c765/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:21:1-39:12
+MERGED from [com.android.support:palette-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/69f426f20e86fb2d8fae1551484851cb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:customtabs:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/customtabs-23.4.0.aar/d458042f92831909ceb7eaaebf111cb2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-database:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/e89ed417820ff349905be19c9fbeaf54/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/44a7114e0424507915e2c5c80abaae25/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/68bb32207b0ad018e681686520ea0095/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-storage:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-11.6.0.aar/a74b09e058ad1ea737b54ae24ec4ad95/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-base-9.6.0.aar/ce1ac9c5bbd49ce04d820a3984f8fed8/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/49eac485154e790d8c250d828fda81f3/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9584be4b2a1e4f5ba3c2877c0980b876/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-common-11.6.0.aar/addb4f9644888971a6af9a8d425ad90d/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/5e33b9f748c3613cbe57905e2ee72db1/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dab52618212f03ba5285ecf82fbdf86b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.0.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/volley-1.0.0.aar/c2ecb05626b0e600ba8928dd5098b226/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f20a504881bec46a6411ef63d0a15365/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f1c7203114a926fb0dd477fb16db8377/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a9b256d327bc0308f77af98815806a78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9bf187951ee22deebbb51fc01f1a02a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7d77eb4b6c9fc823f95174e104a095c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dbe79429d1df349355ee41c8199d92de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/152032f187c3f413de48916acf893982/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/transition-27.1.1.aar/a5dbcdb4665d34cb28aee0518e9acc64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3538b0617f55f7d84b98132c8d15eeb5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/fd94b628deac51534d4c1f0fc82ac1e8/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/12d683bb9dcf92317e2454904a412fb1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e74d16dba4c89ea2ac95492d8a0274cd/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-license-11.6.0.aar/4c8cec4987c60875e64afe18cd965851/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/04f01e5dcc64d604b30a93d49c7810c7/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/448db819361433fe14073a0774ac8b69/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/051ead03e3c938d232a5d8b8932d34e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57e482fcb4859645d02bd69ca50e6f6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/dc1f837405d5e3eafc6dad562749aec0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/5366f1ed09062113a214712d7ddbda7c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/2e88aa79724d731292b270572ed9b5ca/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/4b9c11f27a926b6656166a3fb77cf894/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/25146a29f058911820586dc573fd1f51/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/a55c8bac9e43bb7f5c19167e79818eb2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.0.aar/472f607cf14af3b3a6208d77788a0a01/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c95422692a7225bc1c1d9bfd8ba6926e/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4cb86ecbf67d1df47e4a72741d30922d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/769c6e9b000683bd5115a71da4d2ac1e/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-0.6.0.aar/88ca30e1455a42c6d30468f4f9cb451f/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-0.6.0.aar/88ca30e1455a42c6d30468f4f9cb451f/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:7:5-40:19
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfc8a7c1c48e0de0162b44bccd439aa2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfc8a7c1c48e0de0162b44bccd439aa2/AndroidManifest.xml:5:5-20
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:12:5-83:19
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:12:5-83:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01961d507e5d01578e28be54f698c765/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01961d507e5d01578e28be54f698c765/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:28:5-37:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:28:5-37:19
+MERGED from [com.android.support:palette-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/69f426f20e86fb2d8fae1551484851cb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/69f426f20e86fb2d8fae1551484851cb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:customtabs:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/customtabs-23.4.0.aar/d458042f92831909ceb7eaaebf111cb2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/customtabs-23.4.0.aar/d458042f92831909ceb7eaaebf111cb2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/68bb32207b0ad018e681686520ea0095/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/68bb32207b0ad018e681686520ea0095/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/49eac485154e790d8c250d828fda81f3/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/49eac485154e790d8c250d828fda81f3/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9584be4b2a1e4f5ba3c2877c0980b876/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9584be4b2a1e4f5ba3c2877c0980b876/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/5e33b9f748c3613cbe57905e2ee72db1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/5e33b9f748c3613cbe57905e2ee72db1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.volley:volley:1.0.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/volley-1.0.0.aar/c2ecb05626b0e600ba8928dd5098b226/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/volley-1.0.0.aar/c2ecb05626b0e600ba8928dd5098b226/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/fd94b628deac51534d4c1f0fc82ac1e8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/fd94b628deac51534d4c1f0fc82ac1e8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/12d683bb9dcf92317e2454904a412fb1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/12d683bb9dcf92317e2454904a412fb1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e74d16dba4c89ea2ac95492d8a0274cd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e74d16dba4c89ea2ac95492d8a0274cd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-license-11.6.0.aar/4c8cec4987c60875e64afe18cd965851/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-license-11.6.0.aar/4c8cec4987c60875e64afe18cd965851/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/04f01e5dcc64d604b30a93d49c7810c7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/04f01e5dcc64d604b30a93d49c7810c7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/dc1f837405d5e3eafc6dad562749aec0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/dc1f837405d5e3eafc6dad562749aec0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/5366f1ed09062113a214712d7ddbda7c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/5366f1ed09062113a214712d7ddbda7c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/2e88aa79724d731292b270572ed9b5ca/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/2e88aa79724d731292b270572ed9b5ca/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/4b9c11f27a926b6656166a3fb77cf894/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/4b9c11f27a926b6656166a3fb77cf894/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/25146a29f058911820586dc573fd1f51/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/25146a29f058911820586dc573fd1f51/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/a55c8bac9e43bb7f5c19167e79818eb2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/a55c8bac9e43bb7f5c19167e79818eb2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.0.aar/472f607cf14af3b3a6208d77788a0a01/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.0.aar/472f607cf14af3b3a6208d77788a0a01/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c95422692a7225bc1c1d9bfd8ba6926e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c95422692a7225bc1c1d9bfd8ba6926e/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/769c6e9b000683bd5115a71da4d2ac1e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/769c6e9b000683bd5115a71da4d2ac1e/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:11:9-28
+	android:roundIcon
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:10:9-49
+	android:allowBackup
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:8:9-40
+activity#com.intern.yef.yefmobileapp.MainActivity
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:15:9-18:49
+	android:label
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:18:13-46
+	android:configChanges
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:17:13-59
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:16:13-41
+activity#com.intern.yef.yefmobileapp.startupScreen
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:19:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.intern.yef.yefmobileapp.VolunteerActivity
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:26:9-30:58
+	android:parentActivityName
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:30:13-55
+	android:label
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:29:13-38
+	android:configChanges
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:27:13-46
+activity#com.intern.yef.yefmobileapp.Login
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:32:13-34
+activity#com.intern.yef.yefmobileapp.Register
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:35:13-37
+activity#com.intern.yef.yefmobileapp.LoggedInChat
+ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml:38:13-41
+uses-sdk
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfc8a7c1c48e0de0162b44bccd439aa2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfc8a7c1c48e0de0162b44bccd439aa2/AndroidManifest.xml:4:5-43
+MERGED from [com.firebaseui:firebase-ui:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-0.6.0.aar/88ca30e1455a42c6d30468f4f9cb451f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-0.6.0.aar/88ca30e1455a42c6d30468f4f9cb451f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-storage:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-storage-0.6.0.aar/caa457623391ddff13c0f52352663a42/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-storage:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-storage-0.6.0.aar/caa457623391ddff13c0f52352663a42/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/design-27.1.1.aar/60b3ef5d13c1cd2ec11c517be592ff8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/design-27.1.1.aar/60b3ef5d13c1cd2ec11c517be592ff8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c68c818890fde92c789112ed3369bd63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c68c818890fde92c789112ed3369bd63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01961d507e5d01578e28be54f698c765/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01961d507e5d01578e28be54f698c765/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:palette-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/69f426f20e86fb2d8fae1551484851cb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/palette-v7-23.4.0.aar/69f426f20e86fb2d8fae1551484851cb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/customtabs-23.4.0.aar/d458042f92831909ceb7eaaebf111cb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/customtabs-23.4.0.aar/d458042f92831909ceb7eaaebf111cb2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/e89ed417820ff349905be19c9fbeaf54/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/e89ed417820ff349905be19c9fbeaf54/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/44a7114e0424507915e2c5c80abaae25/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/44a7114e0424507915e2c5c80abaae25/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/68bb32207b0ad018e681686520ea0095/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/68bb32207b0ad018e681686520ea0095/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-11.6.0.aar/a74b09e058ad1ea737b54ae24ec4ad95/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-11.6.0.aar/a74b09e058ad1ea737b54ae24ec4ad95/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-base-9.6.0.aar/ce1ac9c5bbd49ce04d820a3984f8fed8/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-base-9.6.0.aar/ce1ac9c5bbd49ce04d820a3984f8fed8/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/49eac485154e790d8c250d828fda81f3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/49eac485154e790d8c250d828fda81f3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9584be4b2a1e4f5ba3c2877c0980b876/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9584be4b2a1e4f5ba3c2877c0980b876/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-common-11.6.0.aar/addb4f9644888971a6af9a8d425ad90d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-common-11.6.0.aar/addb4f9644888971a6af9a8d425ad90d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/5e33b9f748c3613cbe57905e2ee72db1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/5e33b9f748c3613cbe57905e2ee72db1/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dab52618212f03ba5285ecf82fbdf86b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dab52618212f03ba5285ecf82fbdf86b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.0.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/volley-1.0.0.aar/c2ecb05626b0e600ba8928dd5098b226/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/volley-1.0.0.aar/c2ecb05626b0e600ba8928dd5098b226/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f20a504881bec46a6411ef63d0a15365/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f20a504881bec46a6411ef63d0a15365/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f1c7203114a926fb0dd477fb16db8377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f1c7203114a926fb0dd477fb16db8377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a9b256d327bc0308f77af98815806a78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a9b256d327bc0308f77af98815806a78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9bf187951ee22deebbb51fc01f1a02a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9bf187951ee22deebbb51fc01f1a02a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7d77eb4b6c9fc823f95174e104a095c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7d77eb4b6c9fc823f95174e104a095c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dbe79429d1df349355ee41c8199d92de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dbe79429d1df349355ee41c8199d92de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/152032f187c3f413de48916acf893982/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/152032f187c3f413de48916acf893982/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/transition-27.1.1.aar/a5dbcdb4665d34cb28aee0518e9acc64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/transition-27.1.1.aar/a5dbcdb4665d34cb28aee0518e9acc64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3538b0617f55f7d84b98132c8d15eeb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3538b0617f55f7d84b98132c8d15eeb5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/fd94b628deac51534d4c1f0fc82ac1e8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/fd94b628deac51534d4c1f0fc82ac1e8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/12d683bb9dcf92317e2454904a412fb1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/12d683bb9dcf92317e2454904a412fb1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e74d16dba4c89ea2ac95492d8a0274cd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/e74d16dba4c89ea2ac95492d8a0274cd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-license-11.6.0.aar/4c8cec4987c60875e64afe18cd965851/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-license-11.6.0.aar/4c8cec4987c60875e64afe18cd965851/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/04f01e5dcc64d604b30a93d49c7810c7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/04f01e5dcc64d604b30a93d49c7810c7/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/448db819361433fe14073a0774ac8b69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/448db819361433fe14073a0774ac8b69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/051ead03e3c938d232a5d8b8932d34e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/051ead03e3c938d232a5d8b8932d34e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57e482fcb4859645d02bd69ca50e6f6c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57e482fcb4859645d02bd69ca50e6f6c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/dc1f837405d5e3eafc6dad562749aec0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/dc1f837405d5e3eafc6dad562749aec0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/5366f1ed09062113a214712d7ddbda7c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/5366f1ed09062113a214712d7ddbda7c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/2e88aa79724d731292b270572ed9b5ca/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/2e88aa79724d731292b270572ed9b5ca/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/4b9c11f27a926b6656166a3fb77cf894/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/4b9c11f27a926b6656166a3fb77cf894/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/25146a29f058911820586dc573fd1f51/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/25146a29f058911820586dc573fd1f51/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/a55c8bac9e43bb7f5c19167e79818eb2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/a55c8bac9e43bb7f5c19167e79818eb2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.0.aar/472f607cf14af3b3a6208d77788a0a01/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-storage-common-license-11.6.0.aar/472f607cf14af3b3a6208d77788a0a01/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c95422692a7225bc1c1d9bfd8ba6926e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c95422692a7225bc1c1d9bfd8ba6926e/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.core:runtime:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4cb86ecbf67d1df47e4a72741d30922d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4cb86ecbf67d1df47e4a72741d30922d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/769c6e9b000683bd5115a71da4d2ac1e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/cardview-v7-23.4.0.aar/769c6e9b000683bd5115a71da4d2ac1e/AndroidManifest.xml:20:5-43
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/saksham/AndroidStudioProjects/YEFmobileApp/app/src/main/AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:14:9-16:69
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:13:9-15:69
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:13:9-15:69
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/5e33b9f748c3613cbe57905e2ee72db1/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/5e33b9f748c3613cbe57905e2ee72db1/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-database-0.6.0.aar/79e4a3791e5ef466128c3b7113bbaec7/AndroidManifest.xml:15:13-58
+activity#com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:17:9-20:56
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:19:13-76
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:18:13-88
+activity#com.firebase.ui.auth.ui.email.EmailHintContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:21:9-24:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:23:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:24:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:22:13-84
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:25:9-28:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:27:13-68
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:28:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:26:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:29:9-32:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:31:13-66
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:32:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:30:13-79
+activity#com.firebase.ui.auth.ui.email.SignInNoPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:33:9-36:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:35:13-71
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:36:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:34:13-82
+activity#com.firebase.ui.auth.ui.email.SignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:37:9-40:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:39:13-59
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:40:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:38:13-72
+activity#com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:41:9-44:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:43:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:44:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:42:13-88
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:45:9-48:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:47:13-66
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:48:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:46:13-85
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:49:9-52:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:51:13-71
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:52:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:50:13-90
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:53:9-56:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:55:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:56:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:54:13-80
+activity#com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:57:9-60:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:59:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:60:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:58:13-82
+activity#com.firebase.ui.auth.ui.ChooseAccountActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:61:9-64:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:63:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:64:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:62:13-73
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:65:9-70:45
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:29:9-32:75
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:29:9-32:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:68:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:67:13-96
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:69:13-58
+		REJECTED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:32:13-72
+	tools:replace
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:70:13-42
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:66:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:71:9-82:20
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:33:9-36:20
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/facebook-android-sdk-4.14.1.aar/05a5d14846bcfc7cfb23cc2cc895c3a5/AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:73:13-36
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:72:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:74:13-81:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:75:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:77:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:78:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:78:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:80:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-ui-auth-0.6.0.aar/41dba4b094696bcbe5cade8b51b51f79/AndroidManifest.xml:80:23-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/fa8a0da027b9bb6912f4da92127079b7/AndroidManifest.xml:25:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/55f1dcc2d3b9ffc95b6bb0466e032bab/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/baf70572b7819c8468398dbbfb8b07e3/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:25:17-71
+permission#com.intern.yef.yefmobileapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:27:22-76
+uses-permission#com.intern.yef.yefmobileapp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:31:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:32:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.intern.yef.yefmobileapp
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:34:27-58
+category#com.intern.yef.yefmobileapp
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:40:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/5aabee1c8e8ecee8744c3a7ce072b915/AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/f46662897e907c04b63d2eaf11fc0964/AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-auth-9.6.0.aar/4352258285a674c52517df62fd2afa75/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/49eac485154e790d8c250d828fda81f3/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/49eac485154e790d8c250d828fda81f3/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/49eac485154e790d8c250d828fda81f3/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/saksham/android-studio/gradle/gradle-4.4/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/49eac485154e790d8c250d828fda81f3/AndroidManifest.xml:19:19-85

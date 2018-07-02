@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "421161843327",
+    "firebase_url": "https://yef-mobile-application.firebaseio.com",
+    "project_id": "yef-mobile-application",
+    "storage_bucket": "yef-mobile-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421161843327:android:5a3da9bec2f4b1b5",
+        "android_client_info": {
+          "package_name": "com.intern.yef.yefmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421161843327-3tiuv2s81ln84qf1j16kutd529crum22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjO_Wn8UMGP4WjgbEwZ2gEX4abdF4oV3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

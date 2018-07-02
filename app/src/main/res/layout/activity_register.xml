@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    tools:context=".Register">
+
+    <ImageView
+        android:id="@+id/register_icon"
+        android:layout_width="117dp"
+        android:layout_height="94dp"
+        android:layout_gravity="center"
+        android:layout_margin="60dp"
+        android:src="@drawable/yef_logo" />
+
+    <EditText
+        android:id="@+id/register_name"
+        style="@style/EditTextFields"
+        android:layout_marginTop="8dp"
+        android:background="@null"
+        android:drawableLeft="@drawable/ic_action_user"
+        android:hint="Name "
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/register_email"
+        style="@style/EditTextFields"
+        android:layout_marginTop="16dp"
+        android:background="@null"
+        android:drawableLeft="@drawable/ic_action_email"
+        android:hint="Email "
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/register_password"
+        style="@style/EditTextFields"
+        android:layout_marginTop="16dp"
+        android:background="@null"
+        android:drawableLeft="@drawable/ic_action_password"
+        android:hint="Password"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/confim_register_password"
+        style="@style/EditTextFields"
+        android:layout_marginTop="16dp"
+        android:background="@null"
+        android:drawableLeft="@drawable/ic_action_password"
+        android:hint="Confirm Password"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/register_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:text="Register" />
+
+    <TextView
+        android:id="@+id/login_from_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Already Registered? Login Here"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused" />
+</LinearLayout>

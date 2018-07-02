@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.intern.yef.yefmobileapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".Application.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_yef_logo_round"
+        android:label="YEF"
+        android:roundIcon="@mipmap/ic_yef_logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/app_title" />
+        <activity android:name=".startupScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".VolunteerActivity"
+            android:configChanges="screenSize|orientation"
+            android:label="Volunteer"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Login"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Register"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LoggedInChat"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

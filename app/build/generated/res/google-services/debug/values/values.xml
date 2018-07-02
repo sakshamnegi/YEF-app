@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">421161843327-3tiuv2s81ln84qf1j16kutd529crum22.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://yef-mobile-application.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">421161843327</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjO_Wn8UMGP4WjgbEwZ2gEX4abdF4oV3U</string>
+    <string name="google_app_id" translatable="false">1:421161843327:android:5a3da9bec2f4b1b5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjO_Wn8UMGP4WjgbEwZ2gEX4abdF4oV3U</string>
+    <string name="google_storage_bucket" translatable="false">yef-mobile-application.appspot.com</string>
+    <string name="project_id" translatable="false">yef-mobile-application</string>
+</resources>
